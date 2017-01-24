@@ -19,7 +19,7 @@ public class JavaMenu extends android.support.v4.app.Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.menu,container,false);
-        return rootView;
+        return inflater.inflate(R.layout.menu,container,false);
+
     }
 }
