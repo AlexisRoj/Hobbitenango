@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hobbitenango</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="desc_hobbi">Es un proyecto a largo plazo que pretende vivir de
+        manera sostenible mediante el uso de técnicas alternativas de construcción, el cultivo de
+        hortalizas orgánicas , frutas y animales, la cosecha de lluvia y la utilización de la energía solar
+        / eólica . Todas estas técnicas nos permiten operar de manera completa fuera de la red. La vida en Hobbitenango
+        es mágico . En 2400mts de altura , las vistas panorámicas en esta cima de la montaña son especialmente impresionantes
+        , inspiradoras y hasta curativas . El albergue es la entrada a una zona verde protegida , con una enorme variedad de aves ,
+        animales salvajes y especies protegidas de árboles. Nuestra comida es todo orgánico , saludable y deliciosa todo a sólo 25
+        minutos de Antigua Guatemala . Ven a Hobbitenango
+        para desconectarse de la civilización y volver a conectar con la naturaleza. Ven con nosotros a experimentar
+        la montaña .</string>
+    <string name="hobbitenango">Hobbitenango</string>
+    <string name="enslada_hobbitenango">Enslada Hobbitenango</string>
+    <string name="nada_como_una_rica_ensalada_acompa_ada_de_un_vino_y_una_incrible_vista">Nada como una rica ensalada acompañada de un vino y una incrible vista</string>
+    <string name="ingredientes">Ingredientes:</string>
+    <string name="lechuga_tomates_pepinos_y_un_toque_secreto">Lechuga, tomates, pepinos y un toque secreto</string>
+    <string name="adios">adios</string>
+</resources>
